@@ -59,4 +59,5 @@ function timeElapse(date){
 	var text = "THE WORLD JUST GOT LUCKIER SINCE ";
 	$("#message-box").html(text);
 
+
 }
